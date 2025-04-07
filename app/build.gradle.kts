@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.test.portifolio"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.test.portifolio"
